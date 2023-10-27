@@ -8,28 +8,28 @@
 
 ##Skills:
 <br>
-✨ #REACT
+✨# REACT
 <br>
-✨ #JS
+✨# JS
 <br>
-✨ #ES6
+✨# ES6
 <br>
-✨ #HTML 
+✨# HTML 
 <br>
-✨ #CSS 
+✨# CSS 
 <br>
-✨ #BOOTSRAP 
+✨# BOOTSRAP 
 <br>
-✨ #SASS 
+✨# SASS 
 <br>
-✨ #TAILWAND 
+✨# TAILWAND 
 <br>
-✨ #JSON 
+✨# JSON 
 <br>
-✨ #GIT 
+✨# GIT 
 <br>
 
-##connect with me:
+## connect with me:
 <br>
 <br>
 <a href="https://linkedin.com/in/hamza-ramadan">
