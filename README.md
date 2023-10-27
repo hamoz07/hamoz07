@@ -21,6 +21,7 @@ Skills:
 
 connect with me:
 <br>
+<br>
 <a href="https://linkedin.com/in/hamza-ramdan">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="100px" >
 </a>
