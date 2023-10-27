@@ -2,7 +2,9 @@
 
 <p align="center" dir="auto">
 
-    <a href="https://www.linkedin.com/in/mohamedabusrea"  ><img src="https://camo.githubusercontent.com/6c1dafd006af15bce395e2d124db54c52a24827e7a8763b59314eeb97d5c6857/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333031373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a href="https://www.linkedin.com/in/hamza-ramadan">
+    <img src="https://camo.githubusercontent.com/6c1dafd006af15bce395e2d124db54c52a24827e7a8763b59314eeb97d5c6857/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333031373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"/>
+    </a>
     <a href="https://github.com/hamoz07">
     <img src="https://th.bing.com/th/id/OIP.F3eU0vTt7PXAwAyQ6wCwLwHaB8?pid=ImgDet&w=695&h=182&rs=1" />
 </a>
