@@ -5,7 +5,7 @@
     <img src="https://th.bing.com/th/id/R.f12560820c5070ee4be83c3feb569ce1?rik=l9Xz9PiZqqnDJQ&pid=ImgRaw&r=0" height="100px" />
   </a>
   <a href="https://www.linkedin.com/in/hamza-ramadan/">
-<img src="[https://th.bing.com/th/id/OIP.J6hlqnDOmVKnv4Js2TmlCgHaHa?pid=ImgDet&rs=1](https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png)" width="100px" height="100px" />
+<img src="[[https://th.bing.com/th/id/OIP.J6hlqnDOmVKnv4Js2TmlCgHaHa?pid=ImgDet&rs=1](https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png)](https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png" alt="LinkedIn logo registered trademark example" height="150)"  height="100px" />
   </a>
 
 </p>
