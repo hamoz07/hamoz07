@@ -1,26 +1,13 @@
-<h1 align="center">🧑‍💻 Hello, I'm Hamza</h1>
+### Hi there 👋, my name is Hamza
+I'm Hamza, front-end developer - Reactjs developer, I am passionate about creating projects and also advanced ones, I like to practice so I can learn and keep updated with the latest technologies, here are some couple projects I gained experience from:
 
-<p align="center" dir="auto">
+* https://github.com/hamoz07/budget-tracker-web-application
+* https://github.com/hamoz07/E-COMMERCE-DASHBOARD-MANAGEMENT-SYSTEM
 
-    <a href="https://www.linkedin.com/in/hamza-ramadan">
-    <img src="https://camo.githubusercontent.com/6c1dafd006af15bce395e2d124db54c52a24827e7a8763b59314eeb97d5c6857/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333031373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"/>
-    </a>
-    <a href="https://github.com/hamoz07">
-    <img src="https://th.bing.com/th/id/OIP.F3eU0vTt7PXAwAyQ6wCwLwHaB8?pid=ImgDet&w=695&h=182&rs=1" />
-</a>
-  </p>
+Skills: REACT / JS  / ES6 / HTML / CSS / BOOTSRAP / SASS / TAILWAND / JSON / GIT 
 
-<!--
-**hamoz07/hamoz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on this page. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
