@@ -7,17 +7,27 @@
 * https://github.com/hamoz07/E-COMMERCE-DASHBOARD-MANAGEMENT-SYSTEM
 
 Skills:
-
+<br>
 ✨ REACT
+<br>
 ✨ JS
+<br>
 ✨ ES6
+<br>
 ✨ HTML 
+<br>
 ✨ CSS 
+<br>
 ✨ BOOTSRAP 
+<br>
 ✨ SASS 
+<br>
 ✨ TAILWAND 
+<br>
 ✨ JSON 
+<br>
 ✨ GIT 
+<br>
 
 connect with me:
 <br>
