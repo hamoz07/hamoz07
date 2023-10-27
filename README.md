@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/hamoz07">
-    <img src="https://th.bing.com/th/id/R.f12560820c5070ee4be83c3feb569ce1?rik=l9Xz9PiZqqnDJQ&pid=ImgRaw&r=0" width="100px" height="100px" />
+    <img src="https://th.bing.com/th/id/R.f12560820c5070ee4be83c3feb569ce1?rik=l9Xz9PiZqqnDJQ&pid=ImgRaw&r=0" height="100px" />
   </a>
   <a href="https://www.linkedin.com/in/hamza-ramadan/">
 <img src="https://th.bing.com/th/id/OIP.J6hlqnDOmVKnv4Js2TmlCgHaHa?pid=ImgDet&rs=1" width="100px" height="100px" />
