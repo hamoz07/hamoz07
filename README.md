@@ -1,5 +1,12 @@
 <h1><font color="blue"> Hi there 👋, my name is Hamza</font></h1>
+<br>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamoz07&show_icons=true&locale=en&layout=compact" alt="hamoz07" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamoz07&" alt="hamoz07" /></p>
+
+<br>
+<br>
  I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I love turning ideas into fully functional projects and continuously challenge myself to work on advanced and cutting-edge solutions. I've accumulated a wealth of experience and expertise through a diverse range of projects, I've had the privilege of working on projects ranging from css only projects to e-commerce dashboards. These experiences have provided me with a deep understanding of the technology landscape. here are some of them:
 
 * https://github.com/hamoz07/coffee-shop-template/
@@ -24,26 +31,7 @@
 <img src="https://th.bing.com/th/id/OIP.ylJGrEn_oTmoJTZTzb6UzQHaHN?pid=ImgDet&w=860&h=837&rs=1" width="80px" style="border-radius: 50%;">
 </p>
 
-<br>
-✨ REACT
-<br>
-✨ JS
-<br>
-✨ ES6
-<br>
-✨ HTML 
-<br>
-✨ CSS 
-<br>
-✨ BOOTSRAP 
-<br>
-✨ SASS 
-<br>
-✨ TAILWAND 
-<br>
-✨ JSON 
-<br>
-✨ GIT 
+
 <br>
 
 ## connect with me:
