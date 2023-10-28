@@ -2,10 +2,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamoz07" alt="hamoz07" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamoz07&show_icons=true&locale=en" alt="hamoz07" /></p>
 
-
+<br>
 * 🌱 I am currently learning typescript
 * 💬 Ask me about any programming topic in my field
 * 📫 how to reach me hamozaar07@gmail.com
+<br>
 
 
 
