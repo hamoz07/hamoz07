@@ -15,7 +15,7 @@
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
  <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a>
- <img data-v-15864bbb="" srcset="https://img.icons8.com/?size=256&amp;id=QBqFNfPPB2Kx&amp;format=png 1x, https://img.icons8.com/?size=512&amp;id=QBqFNfPPB2Kx&amp;format=png 2x" width="256" height="256" alt="Sass icon" class="app-preview__image-origin" style="">
+<img src="https://themeover.com/wp-content/uploads/2019/08/microthemer-sass-compile-manager.gif" width="50px">
 </p>
 
 <br>
