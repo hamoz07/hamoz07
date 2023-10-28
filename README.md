@@ -2,14 +2,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamoz07" alt="hamoz07" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamoz07&show_icons=true&locale=en" alt="hamoz07" /></p>
 
-<br>
+
 * 🌱 I am currently learning typescript
 * 💬 Ask me about any programming topic in my field
 * 📫 how to reach me hamozaar07@gmail.com
 
 
 
- I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I love turning ideas into fully functional projects and continuously challenge myself to work on advanced and cutting-edge solutions. I've accumulated a wealth of experience and expertise through a diverse range of projects, I've had the privilege of working on projects ranging from css only projects to e-commerce dashboards. These experiences have provided me with a deep understanding of the technology landscape. here are some of them:
+I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I love turning ideas into fully functional projects and continuously challenge myself to work on advanced and cutting-edge solutions. I've accumulated a wealth of experience and expertise through a diverse range of projects, I've had the privilege of working on projects ranging from css only projects to e-commerce dashboards. These experiences have provided me with a deep understanding of the technology landscape. here are some of them:
 
 * https://github.com/hamoz07/coffee-shop-template/
 * https://github.com/hamoz07/budget-tracker-web-application
