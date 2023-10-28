@@ -1,12 +1,11 @@
 <h1><font color="blue"> Hi there 👋, my name is Hamza</font></h1>
-<br>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamoz07&show_icons=true&locale=en&layout=compact" alt="hamoz07" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamoz07" alt="hamoz07" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamoz07&show_icons=true&locale=en" alt="hamoz07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamoz07&" alt="hamoz07" /></p>
+* 🌱 I am currently learning typescript
+* 💬 Ask me about any programming topic in my field
+* 📫 how to reach me hamozaar07@gmail.com
 
-<br>
-<br>
  I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I love turning ideas into fully functional projects and continuously challenge myself to work on advanced and cutting-edge solutions. I've accumulated a wealth of experience and expertise through a diverse range of projects, I've had the privilege of working on projects ranging from css only projects to e-commerce dashboards. These experiences have provided me with a deep understanding of the technology landscape. here are some of them:
 
 * https://github.com/hamoz07/coffee-shop-template/
@@ -31,8 +30,15 @@
 <img src="https://th.bing.com/th/id/OIP.ylJGrEn_oTmoJTZTzb6UzQHaHN?pid=ImgDet&w=860&h=837&rs=1" width="80px" style="border-radius: 50%;">
 </p>
 
+<br>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamoz07&show_icons=true&locale=en&layout=compact" alt="hamoz07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamoz07&" alt="hamoz07" /></p>
 
 <br>
+<br>
+
 
 ## connect with me:
 <br>
