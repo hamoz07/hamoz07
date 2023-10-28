@@ -20,6 +20,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80px" height="80px" style="max-width: 100%;"> </a>
  <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80px" height="80px"" style="max-width: 100%;"> </a>
 <img src="https://themeover.com/wp-content/uploads/2019/08/microthemer-sass-compile-manager.gif" width="80px" style="border-radius: 50%;">
+<img src="https://th.bing.com/th/id/OIP.ylJGrEn_oTmoJTZTzb6UzQHaHN?pid=ImgDet&w=860&h=837&rs=1" width="80px" style="border-radius: 50%;">
 </p>
 
 <br>
