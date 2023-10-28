@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Hamza
+<h1 style="color:blue;"> Hi there 👋, my name is Hamza</h1>
 
  I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I love turning ideas into fully functional projects and continuously challenge myself to work on advanced and cutting-edge solutions. I've accumulated a wealth of experience and expertise through a diverse range of projects, I've had the privilege of working on projects ranging from css only projects to e-commerce dashboards. These experiences have provided me with a deep understanding of the technology landscape. here are some of them:
 
