@@ -6,7 +6,7 @@
 * https://github.com/hamoz07/budget-tracker-web-application
 * https://github.com/hamoz07/E-COMMERCE-DASHBOARD-MANAGEMENT-SYSTEM
 
-## Skills and tools:
+<h1><font color="blue"> Skills and tools:</font></h1>
 <p align="left" dir="auto">
 <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80px" height="80px" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80px" height="80px" style="max-width: 100%;"> </a> 
