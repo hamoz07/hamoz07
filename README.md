@@ -50,7 +50,6 @@
     <a href="https://linkedin.com/in/hamza-ramadan">
      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50px" >
     </a>
-    
     <a href="https://github.com/hamoz07">
      <img src="https://th.bing.com/th/id/OIP.NDtgPlMGa_BTPZPrt4JZ-AHaHa?pid=ImgDet&rs=1" width="50px" >
     </a>
