@@ -18,7 +18,7 @@ I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I lo
 
 <h1><font color="blue"> Skills and tools:</font></h1>
 <p align="left" dir="auto">
-<a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80px" height="80px" style="max-width: 100%;"> </a>
+<a href="https://reactjs.org/"> <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="80px" height="80px" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80px" height="80px" style="max-width: 100%;"> </a> 
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git"width="80px" height="80px" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80px" height="80px" style="max-width: 100%;"> </a> 
@@ -27,7 +27,7 @@ I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I lo
  
 <a href="https://www.typescriptlang.org/" rel="nofollow"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80px" height="80px" style="max-width: 100%;"> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80px" height="80px" style="max-width: 100%;"> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="javascript" width="80px" height="80px" style="max-width: 100%;"> </a>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--57gsZYwp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/36a2zi6v7a2zq8s61opi.png" width="100px" height="80px" style="border-radius: 50%;">
  <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80px" height="80px"" style="max-width: 100%;"> </a>
 <img src="https://themeover.com/wp-content/uploads/2019/08/microthemer-sass-compile-manager.gif" width="80px" style="border-radius: 50%;">
