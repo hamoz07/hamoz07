@@ -3,9 +3,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamoz07&show_icons=true&locale=en" alt="hamoz07" /></p>
 
 
-* 🌱 I am currently learning typescript
+* 🌱 I am currently learning Next.js
 * 💬 Ask me about any programming topic in my field
-* 📫 how to reach me hamozaar07@gmail.com
+* 📫 how to reach me: hamozaar07@gmail.com
 
 
 I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I love turning ideas into fully functional projects and continuously challenge myself to work on advanced and cutting-edge solutions. I've accumulated a wealth of experience and expertise through a diverse range of projects, I've had the privilege of working on projects ranging from css only projects to e-commerce dashboards. These experiences have provided me with a deep understanding of the technology landscape. here are some of them:
