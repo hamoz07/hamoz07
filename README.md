@@ -17,7 +17,8 @@ I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I lo
 
 <h1><font color="blue"> Skills and tools:</font></h1>
 <p align="left" dir="auto">
-<a href="https://reactjs.org/"> <img src="[7263656c2e6170702f72656163742d69636f6e2e737667](https://www.svgrepo.com/show/374032/reactjs.svg)" width="80px" height="80px" style="max-width: 100%;"> </a>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 <a href="https://www.w3schools.com/css/"> <img src="https://www.svgrepo.com/show/382498/css-document-extension-file-file-format-file-type.svg" alt="css3" width="80px" height="80px" style="max-width: 100%;"> </a> 
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git"width="80px" height="80px" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80px" height="80px" style="max-width: 100%;"> </a> 
