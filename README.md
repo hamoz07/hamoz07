@@ -3,7 +3,7 @@
 * 🌱 I am currently learning Node.js
 * 📫 how to reach me: hamozaar07@gmail.com
 
-I'm a passionate front-end developer with a strong focus on ReactJS. I love turning ideas into fully functional projects and continuously challenge myself to work on advanced and cutting-edge solutions. I've accumulated a wealth of experience and expertise through a diverse range of projects, I've had the privilege of working on projects ranging from css only projects to e-commerce dashboards. These experiences have provided me with a deep understanding of the technology landscape. here are some of them:
+I'm a second-year CS student, a passionate front-end developer with a strong focus on ReactJS. I love turning ideas into fully functional projects and continuously challenge myself to work on advanced and cutting-edge solutions. I've accumulated a wealth of experience and expertise through a diverse range of projects, I've had the privilege of working on projects ranging from css only projects to e-commerce dashboards. These experiences have provided me with a deep understanding of the technology landscape. here are some of them:
 <br>
 * https://github.com/hamoz07/E-COMMERCE-DASHBOARD-MANAGEMENT-SYSTEM
 * https://github.com/hamoz07/AvGeek-aircraft-hangar
