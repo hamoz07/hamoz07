@@ -15,19 +15,12 @@ I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I lo
 * https://github.com/hamoz07/budget-tracker-web-application
 * https://github.com/hamoz07/JS-PRODUCTS-MANAGEMENT-SYSTEM
 
-<h1><font color="blue"> Some of the Skills I use:</font></h1>
+<h1><font color="blue"> Some of the Skills I know how to use:</font></h1>
 <p align="left" dir="auto">
  <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html5" width="80px" height="80px" style="max-width: 100%;"> </a> 
 <a href="https://www.w3schools.com/css/"> <img src="https://www.svgrepo.com/show/382498/css-document-extension-file-file-format-file-type.svg" alt="css3" width="80px" height="80px" style="max-width: 100%;"> </a> 
  <a href="https://react.dev"> <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="css3" width="80px" height="80px" style="max-width: 100%;"> </a> 
-<img src="https://www.svgrepo.com/show/439022/typescript.svg" alt="css3" width="80px" height="80px" style="max-width: 100%;">
+<img src="https://www.svgrepo.com/show/439022/typescript.svg" alt="css3" width="80px" height="80px">
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git"width="80px" height="80px" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
-
-
-
+<img src="https://www.svgrepo.com/show/452210/git.svg" alt="css3" width="80px" height="80px">
 </p>
-
-<br>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamoz07&show_icons=true&locale=en&layout=compact" alt="hamoz07" /></p>
-
