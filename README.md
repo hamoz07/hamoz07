@@ -1,13 +1,9 @@
 <h1><font color="blue"> Hi there 👋, my name is Hamza 🧑‍💻</font></h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamoz07" alt="hamoz07" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamoz07&show_icons=true&locale=en" alt="hamoz07" /></p>
-
 
 * 🌱 I am currently learning Node.js
 * 📫 how to reach me: hamozaar07@gmail.com
 
-
-I'm Hamza, a passionate front-end developer with a strong focus on ReactJS. I love turning ideas into fully functional projects and continuously challenge myself to work on advanced and cutting-edge solutions. I've accumulated a wealth of experience and expertise through a diverse range of projects, I've had the privilege of working on projects ranging from css only projects to e-commerce dashboards. These experiences have provided me with a deep understanding of the technology landscape. here are some of them:
+I'm a passionate front-end developer with a strong focus on ReactJS. I love turning ideas into fully functional projects and continuously challenge myself to work on advanced and cutting-edge solutions. I've accumulated a wealth of experience and expertise through a diverse range of projects, I've had the privilege of working on projects ranging from css only projects to e-commerce dashboards. These experiences have provided me with a deep understanding of the technology landscape. here are some of them:
 <br>
 * https://github.com/hamoz07/E-COMMERCE-DASHBOARD-MANAGEMENT-SYSTEM
 * https://github.com/hamoz07/AvGeek-aircraft-hangar
